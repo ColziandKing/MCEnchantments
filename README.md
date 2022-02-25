@@ -1,2 +1,2 @@
-# iv
-hdss
+# MCEnchantments
+Adds & replaces promotions to Minecraft Enchantments
