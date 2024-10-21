@@ -90,15 +90,6 @@
                 "column": 7
             },
             {
-                "name": "Patriotic War",
-                "uniques": [
-                    "[+10]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-                    "[+50]% XP gained from combat <for [non-[Air]] units>"
-                ],
-                "row": 3,
-                "column": 7
-            },
-            {
                 "name": "Tradition Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]",
@@ -190,16 +181,6 @@
                 "name": "Civil Society",
                 "uniques": [
                     "[-50]% Food consumption by specialists [in all cities]"
-                ],
-                "row": 3,
-                "column": 7
-            },
-            {
-                "name": "Urbanization",
-                "uniques": [
-                    "[+2 Production, +2 Science] from every [Windmill]",
-                    "[+2 Production, +2 Science] from every [Workshop]",
-                    "[+2 Production, +2 Science] from every [Factory]"
                 ],
                 "row": 2,
                 "column": 7
@@ -321,18 +302,9 @@
                 "column": 7
             },
             {
-                "name": "Mobilization",
-                "uniques": [
-                    "[Gold] cost of purchasing [All] units [-25]%",
-                    "[-25]% maintenance costs <for [All] units>"
-                ],
-                "row": 2,
-                "column": 7
-            },
-            {
 			"name": "Fortified Borders",
 			"uniques": ["[+1 Happiness] from every [Castle]","[+1 Happiness] from every [Arsenal]","[+1 Happiness] from every [Military Base]"],
-			"row": 3,
+			"row": 2,
 			"column": 7
 		},
             {
@@ -891,7 +863,7 @@
                     "[Gold] cost of purchasing [All] buildings [-50]%"
                 ],
                 "row": 2,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Academy of Sciences",
@@ -901,7 +873,7 @@
                     "[+1 Happiness] from every [Research Lab]"
                 ],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Cultural Revolution",
@@ -910,7 +882,16 @@
                     "Empire enters golden age"
                 ],
                 "row": 2,
-                "column": 6
+                "column": 5
+            },
+            {
+                "name": "Patriotic War",
+                "uniques": [
+                    "[+10]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+                    "[+50]% XP gained from combat <for [non-[Air]] units>"
+                ],
+                "row": 2,
+                "column": 7
             },
             {
                 "name": "Workers' Faculties",
@@ -1022,7 +1003,7 @@
                     "[+1 Happiness] from every [Stock Exchange]"
                 ],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Universal Suffrage",
@@ -1031,7 +1012,17 @@
                     "[+50]% Golden Age length"
                 ],
                 "row": 2,
-                "column": 6
+                "column": 5
+            },
+            {
+                "name": "Urbanization",
+                "uniques": [
+                    "[+2 Production, +2 Science] from every [Windmill]",
+                    "[+2 Production, +2 Science] from every [Workshop]",
+                    "[+2 Production, +2 Science] from every [Factory]"
+                ],
+                "row": 2,
+                "column": 7
             },
             {
                 "name": "Universal Healthcare",
@@ -1085,7 +1076,7 @@
                     "All newly-trained [Fighter] units [in all cities] receive the [Dogfighting I] promotion"
                 ],
                 "row": 2,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Space Procurements",
@@ -1147,7 +1138,7 @@
                     "[+1] Movement <for [Worker] units>"
                 ],
                 "row": 2,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Police State",
@@ -1160,7 +1151,7 @@
                     "[+50]% Production when constructing [Constabulary] buildings [in all cities]"
                 ],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Third Alternative",
@@ -1174,7 +1165,16 @@
                     "[+5 Science, +5 Food] [in capital]"
                 ],
                 "row": 2,
-                "column": 6
+                "column": 5
+            },
+            {
+                "name": "Mobilization",
+                "uniques": [
+                    "[Gold] cost of purchasing [All] units [-25]%",
+                    "[-25]% maintenance costs <for [All] units>"
+                ],
+                "row": 2,
+                "column": 7
             },
             {
                 "name": "Total War",
