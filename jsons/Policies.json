@@ -49,7 +49,7 @@
                 "uniques": [
                     "[+100]% XP gained from combat <for [All] units> <in [Friendly Land] tiles>"
                 ],
-		"requires": ["Aristocracy"],
+		"requires": ["Aristocracy","Legalism"],
                 "row": 2,
                 "column": 1
             },
@@ -77,16 +77,17 @@
                 "uniques": [
                     "[+2 Food, +2 Gold, +1 Production, +1 Science] [in all cities]"
                 ],
-                "row": 1,
+                "requires": ["Oligarchy","Socialist Realism"],
+                "row": 2,
                 "column": 7
             },
             {
                 "name": "Socialist Realism",
                 "uniques": [
                     "[+2 Happiness] from every [Monument]",
-                    "[+100]% Production when constructing [Monument] buildings [in all cities]"
+                    "[+100]% Production when constructing [Monument] buildings [in all cities]
                 ],
-                "row": 2,
+                "row": 1,
                 "column": 7
             },
             {
@@ -161,7 +162,7 @@
                     "[+1 Happiness] [in all cities connected to capital]",
                     "[-5]% Unhappiness from [Population] [in all non-occupied cities]"
                 ],
-                "requires": ["Citizenship"],
+                "requires": ["Citizenship","Volunteer Army"],
                 "row": 2,
                 "column": 5
             },
@@ -182,6 +183,7 @@
                 "uniques": [
                     "[-50]% Food consumption by specialists [in all cities]"
                 ],
+                "requires": ["Republic"],
                 "row": 2,
                 "column": 7
             },
@@ -302,11 +304,14 @@
                 "column": 7
             },
             {
-			"name": "Fortified Borders",
-			"uniques": ["[+1 Happiness] from every [Castle]","[+1 Happiness] from every [Arsenal]","[+1 Happiness] from every [Military Base]"],
-			"row": 2,
-			"column": 7
-		},
+		"name": "Fortified Borders",
+		"uniques": [
+				"[+1 Happiness] from every [Castle]","[+1 Happiness] from every [Arsenal]","[+1 Happiness] from every [Military Base]"
+			],
+                "requires": ["Militarism"],
+		"row": 2,
+		"column": 7
+	},
             {
                 "name": "Honor Complete",
                 "uniques": [
