@@ -883,7 +883,7 @@
                     "[+1 Happiness] from every [Hydro Plant]"
                 ],
                 "row": 1,
-                "column": 9
+                "column": 1
             },
             {
                 "name": "Skyscrapers",
@@ -919,7 +919,7 @@
                     "[+100]% Production when constructing [Factory] buildings [in all cities]"
                 ],
                 "row": 2,
-                "column": 8
+                "column": 3
             },
             {
                 "name": "Five-Year Plan",
@@ -958,8 +958,8 @@
                     "[+2 Science, +2 Culture] from every [Military Academy]",
                     "[+2 Science, +2 Culture] from every [Armory]"
                 ],
-                "row": 3,
-                "column": 7
+                "row": 1,
+                "column": 5
             },
             {
                 "name": "Spaceflight Pioneers",
@@ -969,7 +969,7 @@
                     //need implement "Spaceflight Pioneers: May finish Spaceship parts with Great Engineers"
                 ],
                 "row": 3,
-                "column": 9
+                "column": 7
             },
             {
                 "name": "Order Complete",
@@ -1012,7 +1012,7 @@
                     "Gain an extra spy"
                 ],
                 "row": 1,
-                "column": 9
+                "column": 5
             },
             {
                 "name": "Capitalism",
@@ -1042,8 +1042,8 @@
                     "[+3 Science] from every [Hospital]",
                     "[+5 Food] [in capital]"
                 ],
-                "row": 2,
-                "column": 8
+                "row": 1,
+                "column": 7
             },
             {
                 "name": "New Deal",
@@ -1084,8 +1084,8 @@
                     "[Fighter] units gain the [Dogfighting I] promotion",
                     "All newly-trained [Fighter] units [in all cities] receive the [Dogfighting I] promotion"
                 ],
-                "row": 3,
-                "column": 7
+                "row": 2,
+                "column": 2
             },
             {
                 "name": "Space Procurements",
@@ -1093,7 +1093,7 @@
                     "May buy [Spaceship part] units with [Gold] [in all cities]"
                 ],
                 "row": 3,
-                "column": 9
+                "column": 7
             },
             {
                 "name": "Freedom Complete",
@@ -1136,7 +1136,7 @@
                     "[+100]% spy effectiveness [in all cities]"
                 ],
                 "row": 1,
-                "column": 9
+                "column": 1
             },
             {
                 "name": "Lightning Warfare",
@@ -1174,7 +1174,7 @@
                     "[+5 Science, +5 Food] [in capital]"
                 ],
                 "row": 2,
-                "column": 8
+                "column": 6
             },
             {
                 "name": "Total War",
@@ -1211,7 +1211,7 @@
                     "[+50]% XP gained from combat <for [non-[Air]] units>"
                 ],
                 "row": 3,
-                "column": 7
+                "column": 9
             },
             {
                 "name": "Clausewitz's Legacy",
@@ -1219,7 +1219,7 @@
                     "[+25]% Strength <for [All] units> <for [50] turns>"
                 ],
                 "row": 3,
-                "column": 9
+                "column": 7
             },
             {
                 "name": "Autocracy Complete",
