@@ -918,7 +918,7 @@
                     "[+25]% [Science] <in cities with a [Factory]>",
                     "[+100]% Production when constructing [Factory] buildings [in all cities]"
                 ],
-                "row": 2,
+                "row": 1,
                 "column": 3
             },
             {
@@ -1210,8 +1210,8 @@
                     "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
                     "[+50]% XP gained from combat <for [non-[Air]] units>"
                 ],
-                "row": 3,
-                "column": 9
+                "row": 1,
+                "column": 5
             },
             {
                 "name": "Clausewitz's Legacy",
